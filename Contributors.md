@@ -1,7 +1,9 @@
   # Contributors
+
   [Amit Kinor](https://github.com/amitkinor))
   [Javokhir Jurakhodjaev](https://github.com/leader2one)
   [Nathan Ross](https://github.com/nwross95)
+- [Brett Thurston](https://github.com/BrettThurs10)
 - [Someone ] (https://github.com/LearnerSamuelX)
 - [Bolaji Olawale] (https://github.com/bolajixi)
 - [Ammar Ahmed]    (https://github.com/ammar629)
